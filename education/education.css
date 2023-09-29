@@ -1,0 +1,21 @@
+.text-footer {
+  background-color: rgb(51, 47, 47);
+  height: 10vh;
+  color: white;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+}
+
+.icon {
+  width: 20px;
+  height: 20px;
+  margin: 10px;
+}
+
+.link-footer {
+  text-decoration: none;
+  color: white;
+}

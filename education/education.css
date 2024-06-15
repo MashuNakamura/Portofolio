@@ -1,42 +1,19 @@
-.text-footer {
-  background-color: rgb(51, 47, 47);
-  height: 10vh;
-  color: white;
-  text-align: center;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  font-size: 20px;
-}
-
-.content {
-  height: 100vh;
-  background-color: gray;
+body{
+    text-align:center;
+    align-content:center;
+    height:100%;
+    background-color:gray;
 }
 
 .judul {
-  width: 50%;
   color: white;
-  border: solid white 2px;
   padding: 10px;
   font-size: 40px;
 }
 
 .li-content {
   padding: 10px;
-  width: 50%;
   font-size: 30px;
   color: white;
-  border: solid white 2px;
 }
 
-.icon {
-  width: 20px;
-  height: 20px;
-  margin: 10px;
-}
-
-.link-footer {
-  text-decoration: none;
-  color: white;
-}

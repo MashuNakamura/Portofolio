@@ -1,19 +1,14 @@
-body{
-    text-align:center;
-    align-content:center;
-    height:100%;
+.content {
     background-color:gray;
+    padding:10px;
 }
 
 .judul {
-  color: white;
-  padding: 10px;
-  font-size: 40px;
+    font-size: 40px;
 }
 
-.li-content {
-  padding: 10px;
-  font-size: 30px;
-  color: white;
+.detail {
+    padding:10px;
+    text-align:center;
+    font-size:23px;
 }
-

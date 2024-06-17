@@ -1,6 +1,8 @@
 .content {
     background-color:gray;
     padding:10px;
+    min-height:100vh;
+    max-height:100%;
 }
 
 .judul {

@@ -1,5 +1,3 @@
-# Mashu Portofolio
+# Hi There !
 
-You can access in this [link](https://mashunakamura.github.io/Portofolio/)
-
-STILL WIP
+## Federico Matthew Pratama - 233405001
